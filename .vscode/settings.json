@@ -1,0 +1,15 @@
+{
+  // editor
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.bracketPairColorization.enabled": true,
+
+  // files
+  "files.eol": "\n",
+  "files.autoSave": "off",
+
+  // eslint
+  "eslint.enable": true,
+  "eslint.codeActionsOnSave.mode": "all",
+}
